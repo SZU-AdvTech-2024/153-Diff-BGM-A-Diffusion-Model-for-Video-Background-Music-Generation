@@ -1,0 +1,8 @@
+@inproceedings{REPO153,
+    author = "Li, Sizhe and Qin, Yiming and Zheng, Minghang and Jin, Xin and Liu, Yang",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "27348-27357",
+    title = "{Diff-BGM: A Diffusion Model for Video Background Music Generation}",
+    year = "2024"
+}
